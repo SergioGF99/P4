@@ -10,7 +10,10 @@
 3. Creación de la función cargar.
 
 
-4. Comprobación de su funcionamiento y prueba de la mismas.
+4. Creación de la funcion registro.
+
+
+5. Comprobación de su funcionamiento y prueba de la mismas.
 
 ---
 
@@ -22,5 +25,8 @@
 
 
 2. Modificación de la clase alumno.
+
+
+3. Prueba de las funciones guardar y cargar en un prueba.cc.
 
 ---
