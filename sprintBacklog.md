@@ -20,4 +20,7 @@
 
 1. Comprobación de la función guardar a partir de un alumno de prueba.
 
+
+2. Modificación de la clase alumno.
+
 ---
