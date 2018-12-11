@@ -4,6 +4,7 @@
 ## ANVERSO
 
 **ID:** 006 **Cargar**
+**Tiempo estimado: 30 min**
 
 ---
 
@@ -27,6 +28,7 @@ Como usuario, quiero poder cargar los datos del sistema de la base de datos.
 ## ANVERSO
 
 **ID:** 007 **Guardar**
+**Tiempo estimado: 30 min**
 
 ---
 
@@ -53,6 +55,7 @@ Como usuario, quiero porder guardar los datos de la base de datos tras haber rea
 
 
 **ID:** 001 **Añadir alumnos**
+**Tiempo estimado: 1h**
 
 ---
 
@@ -78,6 +81,7 @@ Como usuario quiero poder añadir un alumno en el sistema
 ## ANVERSO
 
 **ID:** 002 **Buscar**
+**Tiempo estimado: 1h**
 
 ---
 
@@ -102,6 +106,7 @@ Como usuario, quiero buscar a los alumnos, ya sea a través del DNI o del apelli
 ## ANVERSO
 
 **ID:** 004 **Eliminar alumno**
+**Tiempo estimado: 45 min**
 
 ---
 
@@ -128,6 +133,7 @@ Como usuario quiero poder eliminar a los alumnos
 ## ANVERSO
 
 **ID:** 003 **Modificar alumno**
+**Tiempo estimado: 1h**
 
 ---
 
@@ -154,6 +160,7 @@ El usuario podrá modificar los datos que aparezcan en el sistema.
 ## ANVERSO
 
 **ID:** 005 **Mostrar alumno**
+**Tiempo estimado: 1h**
 
 ---
 
