@@ -16,7 +16,7 @@ private:
 	int equipo_;
 	bool lider_;
 public:
-	Alumno(string DNI, string nombre, string apellidos, string direccion, string correo, string curso, string telefono, int equipo, bool lider);	//Aqui sin comillas y punto
+	inline Alumno(string DNI, string nombre, string apellidos, string direccion, string correo, string curso, string telefono, int equipo=0, bool lider=FALSE){DNI_=DNI; nombre_=nombre; apellidos_=apellidos; direccion_=direccion; correo_=correo; curso_=curso; telefono_=telefono; equipo_=equipo; lider_=lider;}
 
 	inline void setDNI(string DNI){DNI_=DNI;}
 	inline string getDNI(){return DNI_;}
@@ -45,7 +45,17 @@ public:
 	inline void setLider(bool lider){lider_=lider;}
 	inline bool getLider(){return lider_;}
 
-	inline string getApellidosyNombre(){return apellidos_ + ", " + nombre_;}
+	/*Alumno Modificar(Alumno &a); aqui hago el a1.setdni etc
+		a1.setDNI(aux);
+	a1.setNombre(aux);
+	a1.setApellidos(aux);
+	a1.setDireccion(aux);
+	a1.setCorreo(aux);
+	a1.setCurso(aux);
+	a1.setTelefono(aux);
+	a1.setEquipo(aux);
+	a1.setLider();
+	*/
 };
 
 #endif
