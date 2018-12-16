@@ -1,9 +1,9 @@
-#Sprint Backlog.  
+# Sprint Backlog.  
 
 Componentes del equipo:
-- **i72lumav** -> Ventura Lucena Martínez (Programador)
-- **eloy98g** -> Eloy Gómez Garcia (Programador)
-- **SergioGF** -> Sergio Gómez Fernández (Scrum Master)
+- **i72lumav** -> Ventura Lucena Martínez (Programador y tester)
+- **eloy98g** -> Eloy Gómez Garcia (Programador y tester)
+- **SergioGF** -> Sergio Gómez Fernández (SCRUM MASTER y tester)
 
 
 ## Semana 1 (27/11/2018 - 04/12/2018)
@@ -89,7 +89,10 @@ Componentes del equipo:
 10. Corrección de limpieza del buffer. (Ventura y Eloy)
 
 
-11. Testeo del programa. (Ventura)
+11. Correción de la función de comprobación del DNI. (Sergio)
 
 
-12. Finalización del sprint backlog. (Sergio)
+12. Testeo del programa. (Ventura, Sergio y Eloy)
+
+
+13. Finalización del sprint backlog. (Sergio)
