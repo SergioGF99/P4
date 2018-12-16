@@ -1,9 +1,9 @@
 #Sprint Backlog.  
 
 Componentes del equipo:
-- i72lumav -> Ventura Lucena Martínez (Programador)
-- eloy98g -> Eloy Gómez Garcia (Programador)
-- SergioGF -> Sergio Gómez Fernández (Scrum Master)
+- **i72lumav** -> Ventura Lucena Martínez (Programador)
+- **eloy98g** -> Eloy Gómez Garcia (Programador)
+- **SergioGF** -> Sergio Gómez Fernández (Scrum Master)
 
 
 ## Semana 1 (27/11/2018 - 04/12/2018)
@@ -11,19 +11,26 @@ Componentes del equipo:
 1. Creación del repositorio. (Sergio)
 
 
-2. Creación de la clase alumno. (Ventura)
+2. Creación del product backlog. (Sergio)
 
 
-3. Creación de la función guardar. (Eloy)
+3. Creación de la clase alumno. (Ventura)
 
 
-4. Creación de la función cargar. (Eloy)
+4. Creación de la función guardar. (Eloy)
 
 
-5. Creación de la funcion registro. (Eloy)
+5. Creación de la función cargar. (Eloy)
 
 
-6. Comprobación de su funcionamiento y prueba de la mismas. (Ventura)
+6. Creación de la función registro. (Eloy)
+
+
+7. Comprobación de su funcionamiento y prueba de la mismas. (Ventura)
+
+
+8. Creación del burndown Chart. (Sergio)
+
 
 
 ---
@@ -35,10 +42,16 @@ Componentes del equipo:
 1. Comprobación de la función guardar a partir de un alumno de prueba. (Ventura)
 
 
-2. Modificación de la clase alumno. (Ventura)
+2. Corrección del product backlog. (Sergio)
 
 
-3. Prueba de las funciones guardar y cargar en un prueba.cc. (Ventura)
+3. Modificación de la clase alumno. (Ventura)
+
+
+4. Prueba de las funciones guardar y cargar en un prueba.cc. (Ventura)
+
+
+5. Actualización del burndown chart. (Sergio)
 
 ---
 
@@ -55,7 +68,28 @@ Componentes del equipo:
 3. Mejora y de la clase agenda y agenda.h. (Ventura)
 
 
-4. Modificacion de la clse profesor y profesor.h. (Eloy)
+4. Modificación de la clase profesor y profesor.h. (Eloy)
 
 
-5. 
+5. Creación de la clase login. (Eloy)
+
+
+6. Creación del main. (Eloy)
+
+
+7. Restricciones de los atributos del alumno (DNI, tlf). (Ventura)
+
+
+8. Modificación final del burndown chart. (Sergio)
+
+
+9. Cambios en el constructor de la función añadir y modificar. (Ventura)
+
+
+10. Corrección de limpieza del buffer. (Ventura y Eloy)
+
+
+11. Testeo del programa. (Ventura)
+
+
+12. Finalización del sprint backlog. (Sergio)
