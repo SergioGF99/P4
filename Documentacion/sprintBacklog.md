@@ -1,4 +1,5 @@
-#Sprint Backlog.
+#Sprint Backlog.  
+
 Componentes del equipo:
 - i72lumav -> Ventura Lucena Martínez (Programador)
 - eloy98g -> Eloy Gómez Garcia (Programador)
