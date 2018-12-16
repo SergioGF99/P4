@@ -1,7 +1,8 @@
 # ***Prioridad 1:***
 
 
-**ID:** 008 **Login**
+**ID:** 008 **Login**  
+
 **Tiempo estimado: 1 h 30 min**
 
 
@@ -13,7 +14,8 @@
 # ***Prioridad 1:***
 
 
-**ID:** 006 **Cargar**
+**ID:** 006 **Cargar**  
+
 **Tiempo estimado: 2h**
 
 
@@ -25,7 +27,8 @@
 # ***Prioridad 1:***
 
 
-**ID:** 007 **Guardar**
+**ID:** 007 **Guardar**  
+
 **Tiempo estimado: 2h**
 
 
@@ -37,7 +40,8 @@
 # ***Prioridad 2:***
 
 
-**ID:** 001 **Añadir alumnos**
+**ID:** 001 **Añadir alumnos**  
+
 **Tiempo estimado: 3h**
 
 
@@ -49,7 +53,8 @@
 # ***Prioridad 3:***
 
 
-**ID:** 002 **Buscar**
+**ID:** 002 **Buscar**  
+
 **Tiempo estimado: 3h**
 
 
@@ -61,7 +66,8 @@
 # ***Prioridad 4:***
 
 
-**ID:** 004 **Eliminar alumno**
+**ID:** 004 **Eliminar alumno**  
+
 **Tiempo estimado: 2 h 30 min**
 
 
@@ -74,7 +80,8 @@
 
 
 
-**ID:** 003 **Modificar alumno**
+**ID:** 003 **Modificar alumno**  
+
 **Tiempo estimado: 3h**
 
 
@@ -86,7 +93,8 @@
 # ***Prioridad 5:***
 
 
-**ID:** 005 **Mostrar alumno**
+**ID:** 005 **Mostrar alumno**  
+
 **Tiempo estimado: 3h**
 
 
