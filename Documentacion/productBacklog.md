@@ -8,9 +8,7 @@
 
 **Prioridad:** 1
 
----
-
-
+---  
 
 
 # ***Prioridad 1:***
@@ -23,9 +21,7 @@
 
 **Prioridad:** 1
 
----
-
-
+---  
 
 
 # ***Prioridad 2:***
@@ -38,9 +34,7 @@
 
 **Prioridad:** 3
 
----
-
-
+---  
 
 
 # ***Prioridad 3:***
@@ -53,9 +47,7 @@
 
 **Prioridad:2** 
 
----
-
-
+---  
 
 
 # ***Prioridad 4:***
@@ -68,9 +60,7 @@
 
 **Prioridad:** 3
 
----
-
-
+---  
 
 
 # ***Prioridad 4:***
@@ -86,9 +76,7 @@ El usuario podrá modificar los datos que aparezcan en el sistema.
 
 **Prioridad:** 2
 
----
-
-
+---  
 
 
 # ***Prioridad 5:***
