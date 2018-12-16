@@ -26,10 +26,6 @@ bool Agenda::addAlumno(list<Alumno>& alumnos_){
 	cout<<"				[Creando alumno]\n";
 	cout<<"				Introduce DNI: ";
 	cin>>DNI;
-		if(a.comprobarDni(DNI)==true){
-		cout<<"				[Error] El DNI introducido ya existe"<<endl;
-		return false;
-		}
 	convierte_a_mayuscula(DNI);
 		if(prueba(DNI)==false){
 		cout<<"				EL DNI que ha introducido no es valido."<<endl;
@@ -318,26 +314,18 @@ bool Agenda::comprobarDni(string DNI){
 
 
 bool Agenda::prueba(string DNI){
-	string nletras="TRWAGMYFPDXBNJZSQVHLCKE";
-	if(DNI.size()!=9){
-		return false;
-	}
-	for(int i=0; i<DNI.size(); i++){
-		if(i<8){
-			if(!isdigit(DNI[i])){
-				return false;
-			}else{
-				if(!isalpha(DNI[i])){
-					return true;
-				}else{
-					if(DNI[i]!=nletras[stoi(DNI)%23]){
-						return false;
-					}
-				}
-			}
-		}
-	}
-	return true;
+   if (DNI.size()!=9)return false;
+   if (!isalpha(DNI[DNI.size()-1]) ) return false;
+
+   char letra=DNI.back();
+   DNI.pop_back();
+
+   int number=stoi(DNI);
+   string letras="TRWAGMYFPDXBNJZSQVHLCKE";
+   if (  letras[ number%letras.size()] ==toupper(letra)){
+       return true;
+   }
+   else return false;
 }
 
 bool Agenda::prueba2(string telefono){
