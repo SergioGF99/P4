@@ -3,7 +3,7 @@
 
 **ID:** 008 **Login**  
 
-**Tiempo estimado: 1 h 30 min**
+**Tiempo estimado: 2 h 30 min**
 
 
 **Prioridad:** 1
